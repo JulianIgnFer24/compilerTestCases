@@ -15,4 +15,4 @@ class A {
     Int i1, i2, i3;
 }
 
-hola {}
+start {}

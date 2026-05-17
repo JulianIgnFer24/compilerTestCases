@@ -1,8 +1,7 @@
 class A {
     Bool b1;
 }
-Class A {
-    Bool b1;
+class A {
 }
 impl A {
     .() {}

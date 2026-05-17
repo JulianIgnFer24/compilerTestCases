@@ -1,4 +1,5 @@
 impl A {
+    .(){}
     fn m1(){}
     st fn m2(){}
     st fn Int m3(){}
@@ -22,6 +23,12 @@ class A : B {
 impl A {
     fn m5(){}
     fn m6(){}
+}
+
+impl B {
+    .(){}
+    fn m1(){}
+    fn m2(){}
 }
 
 class B {
